@@ -1,0 +1,14 @@
+1 - Hello there, I will be alone this time. Since you are here now, we can continue with the next step of our plan.
+1 - You can now download "THE_LOCK". Make sure to remember where you save it.
+1 - Okay, as you can probably notice, this file is encrypted. We have found out that the encryption software that was used is "GPG".
+1 - You can download the program there: https://www.gpg4win.org/get-gpg4win.html
+1 - Make sure that "Kleopatra" extension is also installed although, we will need it for the future steps.
+1 - However, that is not everything we need. Now we need the key to decrypt this document. Where do you find the key? I don't know.
+1 - You must try and find the key, it should start with "-----BEGIN PGP PUBLIC KEY BLOCK-----"
+1 - Once key is found, you will need to use it in the "Kleopatra" program. It will then give you a key that you can use to decrypt files.
+1 - Your next step is open the program and look on the panel above. It will have the "Notepad" button, you must press it.
+1 - Then you need to copy the encrypted message to the window and press "Decrypt/Verify Notepad". It will ask you for a password in order to proceed.
+1 - And that is the worst part. We do not know what the password is. We only know it is just one word, but there are too many words in the world that could be used there.
+1 - I have no ideas where to find that password, but once you do, you will have all the pieces of the puzzle. The last step will be entering this password and getting the decrypted document.
+1 - Alright, that's all. I can not help you with anything anymore. I wish you luck with solving this mess.
+1 - Goodbye.
